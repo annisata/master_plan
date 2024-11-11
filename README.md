@@ -3,7 +3,7 @@ NIM     : 362358302084
 Kelas   : 2B TRPL
 
 PRAKTIKUM 1
-![1](image.png)
+![1](image/1.png)
 
 2. Jelaskan maksud dari langkah 4 pada praktikum tersebut! Mengapa dilakukan demikian?
 Menjaga keteraturan kode, menghemat waktu, dan mengurangi kemungkinan error saat mengelola proyek yang semakin besar. 
