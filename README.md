@@ -2,7 +2,7 @@ Nama    : Annisa Tri Amalia
 NIM     : 362358302084
 Kelas   : 2B TRPL
 
-Hasil
+PRAKTIKUM 1
 ![1](image.png)
 
 2. Jelaskan maksud dari langkah 4 pada praktikum tersebut! Mengapa dilakukan demikian?
